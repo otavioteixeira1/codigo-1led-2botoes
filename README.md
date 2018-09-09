@@ -1,12 +1,9 @@
-# codigo-1led-2botoes
-Código para ligar e desligar um LED com dois botões
 /* CODIGO PARA LIGAR E DESLIGAR UM LED COM DOIS BOTÕES
 Otavio Augusto Santos Teixeira 
 Curso IOT na pratica 2018 */
 
-
 int botao    = D2; // define pino 9 como entrada botao liga
-int botao1  = D3; //  define botao 8 como botao desliga
+int botao1  = D5; //  define botao 8 como botao desliga
 int saida = D1; // define pino 13 como saida
 
 
